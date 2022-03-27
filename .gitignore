@@ -1,3 +1,23 @@
+Scripts/
+pyvenv.cfg
+Include/
+Lib/
+share/
+etc/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ########################################################################
 # Python - https://github.com/github/gitignore/blob/master/Python.gitignore
 ########################################################################
