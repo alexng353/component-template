@@ -1,10 +1,10 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import MyComponent from "./MyComponent"
+import IPGrabber from "./IPGrabber"
 
 ReactDOM.render(
   <React.StrictMode>
-    <MyComponent />
+    <IPGrabber />
   </React.StrictMode>,
   document.getElementById("root")
 )
